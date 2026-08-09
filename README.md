@@ -63,3 +63,28 @@ MAIN
 │
 └── Exit
 ```
+## 🧠 Algorithm
+
+1. **Start the program.**
+2. **Initialize the data segment.**
+3. **Display the project title.**
+4. **Ask the user to enter electricity units.**
+5. **Read the units digit by digit.**
+6. **Convert ASCII digits into numerical values.**
+7. **Check the number of units.**
+8. **If units ≤ 100:**
+   - `Bill = Units × 2`
+9. **Else if units ≤ 200:**
+   - `First 100 units = ₹200`
+   - `Remaining units = Units - 100`
+   - `Remaining charge = Remaining × ₹3`
+   - `Bill = ₹200 + Remaining charge`
+10. **Else:**
+    - `First 100 units = ₹200`
+    - `Next 100 units = ₹300`
+    - `Remaining units = Units - 200`
+    - `Remaining charge = Remaining × ₹5`
+    - `Bill = ₹200 + ₹300 + Remaining charge`
+11. **Convert the calculated bill into printable digits.**
+12. **Display the final bill.**
+13. **Exit the program.**
