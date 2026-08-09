@@ -88,3 +88,43 @@ MAIN
 11. **Convert the calculated bill into printable digits.**
 12. **Display the final bill.**
 13. **Exit the program.**
+    
+## 📚 Concepts Used
+
+Through this project, the following concepts were practiced:
+
+8086 Assembly Language
+Registers
+Memory variables
+ASCII conversion
+Keyboard input
+Screen output
+Arithmetic operations
+Conditional branching
+Loops
+Procedures
+Stack operations
+DOS interrupts
+Number conversion
+Slab-based decision making
+
+## ⭐ Conclusion
+
+The Electricity Bill Calculator using 8086 Assembly Language is a simple real-world application that demonstrates how basic microprocessor instructions can be used to solve a practical problem.
+
+The project combines:
+```text
+User Input
+    ↓
+ASCII Conversion
+    ↓
+Number Processing
+    ↓
+Conditional Checking
+    ↓
+Arithmetic Calculation
+    ↓
+Number-to-ASCII Conversion
+    ↓
+Output
+```
