@@ -33,7 +33,7 @@ Therefore:
 ```text
 Total Bill = ₹200 + ₹300 + ₹250
            = ₹750
-
+```
 
 ##Prigram Strcuture
 MAIN
