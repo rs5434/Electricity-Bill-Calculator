@@ -34,8 +34,9 @@ Therefore:
 Total Bill = ₹200 + ₹300 + ₹250
            = ₹750
 ```
-```text
+
 ##Prigram Strcuture
+```text
 MAIN
 │
 ├── Display title
