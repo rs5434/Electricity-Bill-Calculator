@@ -92,7 +92,7 @@ MAIN
 ## 📚 Concepts Used
 
 Through this project, the following concepts were practiced:
-
+```text
 8086 Assembly Language
 Registers
 Memory variables
@@ -107,7 +107,7 @@ Stack operations
 DOS interrupts
 Number conversion
 Slab-based decision making
-
+```
 ## ⭐ Conclusion
 
 The Electricity Bill Calculator using 8086 Assembly Language is a simple real-world application that demonstrates how basic microprocessor instructions can be used to solve a practical problem.
