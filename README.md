@@ -34,7 +34,7 @@ Therefore:
 Total Bill = ₹200 + ₹300 + ₹250
            = ₹750
 ```
-
+```text
 ##Prigram Strcuture
 MAIN
 │
@@ -61,3 +61,4 @@ MAIN
 │   └── Convert number to ASCII
 │
 └── Exit
+```
